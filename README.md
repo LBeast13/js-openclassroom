@@ -14,4 +14,6 @@ Some simple activities when I started learning Javascript on Openclassroom.
   <li>Exit the Contact Manager</li>
 </p>
 
-
+<h1>3. Web Links</h1>
+<p> This program display on a website a list of web links that you can click in order to visit.
+  The list is loaded from a server, and you have also the possibility to had a new link to the list (and to the server).</p>
